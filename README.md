@@ -1,0 +1,3 @@
+# Leaking Secrets on GitHub
+
+This is just a small repository to show you something...
